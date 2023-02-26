@@ -3,7 +3,7 @@ ___
 **Instructions for using the Telegram bot translator:**
 
 1.Install the required libraries using the command 
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 
 2.Create a bot on [BotFather](https://t.me/BotFather "BotFather") and obtain the **API** token to insert into the program code **YOUR_TOKEN_HERE**.
 
