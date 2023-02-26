@@ -11,6 +11,6 @@ pip install -r requirements.txt
 
 - To add a language, simply include the translation of the desired language in the code under the "**languages**" variable.
 
-<li>The program is implemented on _aiogram_ and _translate_ libraries, and can be used for translating text between different languages by interacting with the bot.</li></lo>
+- The program is implemented on _aiogram_ and _translate_ libraries, and can be used for translating text between different languages by interacting with the bot.
 
 ![Telegram Bot Translator ](telegram-bot.gif "Telegram Bot Translator ")
